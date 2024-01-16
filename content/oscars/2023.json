@@ -1,0 +1,750 @@
+{
+  "no": 95,
+  "year": 2023,
+  "matches": ["2023", "95"],
+  "location": "Dolby Theatre at Ovation Hollywood",
+  "date": "Sunday, March 12, 2023",
+  "images": [
+    {
+      "url": "https://www.oscars.org/sites/oscars/files/styles/ceremonies_media_std_default/public/95_tc_0557_1.jpg?itok=wMYMUbdu",
+      "figcaption": "Best Picture winner  'Everything Everywhere All at Once'"
+    },
+    {
+      "url": "https://www.oscars.org/sites/oscars/files/styles/ceremonies_media_std_default/public/95_pr_0213.jpg?itok=KUPpOFHK",
+      "figcaption": "95th Oscars acting winners - Ke Huy Quan, Michelle Yeoh, Brendan Fraser, Jamie Lee Curtis"
+    },
+    {
+      "url": "https://www.oscars.org/sites/oscars/files/styles/ceremonies_media_std_default/public/95_tc_0018.jpg?itok=FQ2oTlyh",
+      "figcaption": "95th Oscars host - Jimmy Kimmel"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Actor in a Leading Role",
+      "for": "actor",
+      "cover_photo": "https://media.newyorker.com/photos/638f7e5a621d1cfee6260baf/master/pass/Schulman-The-Whale-rd.jpg",
+      "winner_and_nominees": [
+        {
+          "actor_name": "Brendan Fraser",
+          "film_name": "The Whale",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Brendan_Fraser_October_2022.jpg/220px-Brendan_Fraser_October_2022.jpg"
+        },
+        {
+          "actor_name": "Austin Butler",
+          "film_name": "Elvis",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Austin_Butler_%2852123912556%29.jpg/220px-Austin_Butler_%2852123912556%29.jpg"
+        },
+        {
+          "actor_name": "Colin Farrell",
+          "film_name": "The Banshees of Inisherin",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/BansheesBFI131022_%2821_of_22%29_%2852447275762%29_%28cropped%29.jpg/220px-BansheesBFI131022_%2821_of_22%29_%2852447275762%29_%28cropped%29.jpg"
+        },
+        {
+          "actor_name": "Paul Mescal",
+          "film_name": "Aftersun",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paul_Mescal%2C_2023_Dublin_International_Film_Festival.jpg/220px-Paul_Mescal%2C_2023_Dublin_International_Film_Festival.jpg"
+        },
+        {
+          "actor_name": "Bill Nighy",
+          "film_name": "Living",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bill_Nighy-3007.jpg/220px-Bill_Nighy-3007.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Actor in a Supporting Role",
+      "for": "actor",
+      "cover_photo": "https://ew.com/thmb/b5xMwofOI7zwePZRowrARIdf8zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Everything-Everywhere-fight-clip-33e26c71856e4d9b958da96e99bb6f16.jpg",
+      "winner_and_nominees": [
+        {
+          "actor_name": "Ke Huy Quan",
+          "film_name": "Everything Everywhere All at Once",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ke_Huy_Quan_at_the_White_House_%2852902390767%29_%28cropped%29.jpg/220px-Ke_Huy_Quan_at_the_White_House_%2852902390767%29_%28cropped%29.jpg"
+        },
+        {
+          "actor_name": "Brendan Gleeson",
+          "film_name": "The Banshees of Inisherin",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Brendan_Gleeson_at_the_Moet_BIFA_2014.jpg/220px-Brendan_Gleeson_at_the_Moet_BIFA_2014.jpg"
+        },
+        {
+          "actor_name": "Brian Tyree Henry",
+          "film_name": "Causeway",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brian_Tyree_Henry_by_Gage_Skidmore.jpg/220px-Brian_Tyree_Henry_by_Gage_Skidmore.jpg"
+        },
+        {
+          "actor_name": "Judd Hirsch",
+          "film_name": "The Fabelmans",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Judd_Hirsch_-_1967.jpg/220px-Judd_Hirsch_-_1967.jpg"
+        },
+        {
+          "actor_name": "Barry Keoghan",
+          "film_name": "The Banshees of Inisherin",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Barry_Keoghan_in_2020.png/220px-Barry_Keoghan_in_2020.png"
+        }
+      ]
+    },
+    {
+      "title": "Actress in a Leading Role",
+      "for": "actor",
+      "cover_photo": "https://media.npr.org/assets/img/2022/04/25/2022-03-24_wide-7787dc50deddf8a861ce07be7d15aff730465e12-s1100-c50.jpg",
+      "winner_and_nominees": [
+        {
+          "actor_name": "Michelle Yeoh",
+          "film_name": "Everything Everywhere All at Once"
+        },
+        {
+          "actor_name": "Cate Blanchett",
+          "film_name": "Tár",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg/220px-Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg"
+        },
+        {
+          "actor_name": "Ana de Armas",
+          "film_name": "Blonde",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ana_de_Armas_by_Gage_Skidmore.jpg/220px-Ana_de_Armas_by_Gage_Skidmore.jpg"
+        },
+        {
+          "actor_name": "Andrea Riseborough",
+          "film_name": "To Leslie",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Andrea_Riseborough_2012.jpg/220px-Andrea_Riseborough_2012.jpg"
+        },
+        {
+          "actor_name": "Michelle Williams",
+          "film_name": "The Fabelmans"
+        }
+      ]
+    },
+    {
+      "title": "Actress in a Supporting Role",
+      "for": "actor",
+      "cover_photo": "https://www.slashfilm.com/img/gallery/jamie-lee-curtis-kept-just-one-thing-from-the-everything-everywhere-all-at-once-set/l-intro-1673046020.jpg",
+      "winner_and_nominees": [
+        {
+          "actor_name": "Jamie Lee Curtis",
+          "film_name": "Everything Everywhere All at Once",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jamie_Lee_Curtis_%2841851191720%29_%28cropped%29.jpg/220px-Jamie_Lee_Curtis_%2841851191720%29_%28cropped%29.jpg"
+        },
+        {
+          "actor_name": "Angela Bassett",
+          "film_name": "Black Panther: Wakanda Forever",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Angela_Bassett_by_Gage_Skidmoe.jpg/220px-Angela_Bassett_by_Gage_Skidmoe.jpg"
+        },
+        {
+          "actor_name": "Hong Chau",
+          "film_name": "The Whale",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hong_Chau%2C_MTV_2018.png/220px-Hong_Chau%2C_MTV_2018.png"
+        },
+        {
+          "actor_name": "Kerry Condon",
+          "film_name": "The Banshees of Inisherin",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kerry_Condon_The_Last_Station_%28Cropped%29.jpg/220px-Kerry_Condon_The_Last_Station_%28Cropped%29.jpg"
+        },
+        {
+          "actor_name": "Stephanie Hsu",
+          "film_name": "Everything Everywhere All at Once",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Stephanie_hsu_2023_3.jpg/220px-Stephanie_hsu_2023_3.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Animated Feature Film",
+      "for": "film",
+      "cover_photo": "https://i.guim.co.uk/img/media/a5d4f7e12841a165c909ae274583779d1295d20a/309_0_3598_2160/master/3598.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b58fbed3f42963cbce45096dfeef5043",
+      "winner_and_nominees": [
+        {
+          "film_name": "Guillermo del Toro's Pinocchio",
+          "author": "Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pinocchio_%282022_animated_film%29.jpg/220px-Pinocchio_%282022_animated_film%29.jpg"
+        },
+        {
+          "film_name": "Marcel the Shell with Shoes On",
+          "author": "Dean Fleischer Camp, Elisabeth Holm, Andrew Goldman, Caroline Kaplan and Paul Mezey"
+        },
+        {
+          "film_name": "Puss in Boots: The Last Wish",
+          "author": "Joel Crawford and Mark Swift",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/7/78/Puss_in_Boots_The_Last_Wish_poster.jpg/220px-Puss_in_Boots_The_Last_Wish_poster.jpg"
+        },
+        {
+          "film_name": "The Sea Beast",
+          "author": "Chris Williams and Jed Schlanger"
+        },
+        {
+          "film_name": "Turning Red",
+          "author": "Domee Shi and Lindsey Collins",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Turning_Red_poster.jpg/220px-Turning_Red_poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cinematography",
+      "for": "film",
+      "cover_photo": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/AllQuietOnTheWesternFront_ReinerBajo_02.jpg?w=1296",
+      "winner_and_nominees": [
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "James Friend"
+        },
+        {
+          "film_name": "Bardo, False Chronicle of a Handful of Truths",
+          "author": "Darius Khondji",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/a/ad/Bardo_2022_film_poster.png/220px-Bardo_2022_film_poster.png"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Mandy Walker",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        },
+        {
+          "film_name": "Empire of Light",
+          "author": "Roger Deakins",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/14/Empire_of_Light_%28film%29.jpg/220px-Empire_of_Light_%28film%29.jpg"
+        },
+        {
+          "film_name": "Tár",
+          "author": "Florian Hoffmeister",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/19/T%C3%A1r_poster.jpg/220px-T%C3%A1r_poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Costume Design",
+      "for": "film",
+      "cover_photo": "https://www.syfy.com/sites/syfy/files/2022/12/sum-23577_r3_crop.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Black Panther: Wakanda Forever",
+          "author": "Ruth Carter",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Black_Panther_Wakanda_Forever_poster.jpg/220px-Black_Panther_Wakanda_Forever_poster.jpg"
+        },
+        {
+          "film_name": "Babylon",
+          "author": "Mary Zophres",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Street_in_Babylon.jpg/250px-Street_in_Babylon.jpg"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Catherine Martin",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        },
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Shirley Kurata",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "Mrs. Harris Goes to Paris",
+          "author": "Jenny Beavan",
+          "photo": "//upload.wikimedia.org/wikipedia/en/5/50/Mrs._Harris_Goes_to_Paris_poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Directing",
+      "for": "film",
+      "cover_photo": "https://asiasociety.org/sites/default/files/styles/1200w/public/2022-10/EEAAO%20Daniels%20Headshot.jpeg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Daniel Kwan and Daniel Scheinert",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "The Banshees of Inisherin",
+          "author": "Martin McDonagh",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/The_Banshees_of_Inisherin.jpg/220px-The_Banshees_of_Inisherin.jpg"
+        },
+        {
+          "film_name": "The Fabelmans",
+          "author": "Steven Spielberg",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Fabelmansposter.jpeg/220px-Fabelmansposter.jpeg"
+        },
+        {
+          "film_name": "Tár",
+          "author": "Todd Field",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/19/T%C3%A1r_poster.jpg/220px-T%C3%A1r_poster.jpg"
+        },
+        {
+          "film_name": "Triangle of Sadness",
+          "author": "Ruben Östlund",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/TriangleOfSadness2022Poster.jpg/220px-TriangleOfSadness2022Poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Documentary Feature Film",
+      "for": "film",
+      "cover_photo": "https://www.sundance.org/wp-content/uploads/2022/01/Navalny.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Navalny",
+          "author": "Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris"
+        },
+        {
+          "film_name": "All That Breathes",
+          "author": "Shaunak Sen, Aman Mann and Teddy Leifer",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6c/All_That_Breathes.jpg/220px-All_That_Breathes.jpg"
+        },
+        {
+          "film_name": "All the Beauty and the Bloodshed",
+          "author": "Laura Poitras, Howard Gertler, John Lyons, Nan Goldin and Yoni Golijov",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/2/23/All_the_Beauty_and_the_Bloodshed_2022_film_poster.png/220px-All_the_Beauty_and_the_Bloodshed_2022_film_poster.png"
+        },
+        {
+          "film_name": "Fire of Love",
+          "author": "Sara Dosa, Shane Boris and Ina Fichman"
+        },
+        {
+          "film_name": "A House Made of Splinters",
+          "author": "Simon Lereng Wilmont and Monica Hellström",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1a/A_House_Made_of_Splinters_film.jpg/220px-A_House_Made_of_Splinters_film.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Documentary Short Film",
+      "for": "film",
+      "cover_photo": "https://media.npr.org/assets/img/2023/03/03/elephantwhisperers_wide-c51e632ad41db66fe704cfbe6b23dcf89de5195a-s1100-c50.png",
+      "winner_and_nominees": [
+        {
+          "film_name": "The Elephant Whisperers",
+          "author": "Kartiki Gonsalves and Guneet Monga",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poster_Signed_Elephant_Whisperers_Mar23_A7R_04100.jpg/220px-Poster_Signed_Elephant_Whisperers_Mar23_A7R_04100.jpg"
+        },
+        {
+          "film_name": "Haulout",
+          "author": "Evgenia Arbugaeva and Maxim Arbugaev"
+        },
+        {
+          "film_name": "How Do You Measure a Year?",
+          "author": "Jay Rosenblatt"
+        },
+        {
+          "film_name": "The Martha Mitchell Effect",
+          "author": "Anne Alvergue and Beth Levison",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/7/71/The_martha_mitchell_effect-175731735-large.jpg/220px-The_martha_mitchell_effect-175731735-large.jpg"
+        },
+        {
+          "film_name": "Stranger at the Gate",
+          "author": "Joshua Seftel and Conall Jones",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/8/84/Stranger_at_the_Gate_film.jpg/220px-Stranger_at_the_Gate_film.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Film Editing",
+      "for": "film",
+      "cover_photo": "https://www.redsharknews.com/hubfs/Everything%20Everywhere%20All%20At%20Once.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Paul Rogers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "The Banshees of Inisherin",
+          "author": "Mikkel E.G. Nielsen",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/The_Banshees_of_Inisherin.jpg/220px-The_Banshees_of_Inisherin.jpg"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Matt Villa and Jonathan Redmond",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        },
+        {
+          "film_name": "Tár",
+          "author": "Monika Willi",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/19/T%C3%A1r_poster.jpg/220px-T%C3%A1r_poster.jpg"
+        },
+        {
+          "film_name": "Top Gun: Maverick",
+          "author": "Eddie Hamilton",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "International Feature Film",
+      "for": "film",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48ttTUkeiSQHc5REWBxOD73fmy9XpCfGjEw&usqp=CAU",
+      "winner_and_nominees": [
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Germany"
+        },
+        {
+          "film_name": "Argentina, 1985",
+          "author": "Argentina",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/a/af/Argentina_1985.jpg/220px-Argentina_1985.jpg"
+        },
+        {
+          "film_name": "Close",
+          "author": "Belgium"
+        },
+        {
+          "film_name": "EO",
+          "author": "Poland"
+        },
+        {
+          "film_name": "The Quiet Girl",
+          "author": "Ireland",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/An_Cail%C3%ADn_Ci%C3%BAin_poster.jpg/220px-An_Cail%C3%ADn_Ci%C3%BAin_poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Makeup and Hairstyling",
+      "for": "film",
+      "cover_photo": "https://ca-times.brightspotcdn.com/dims4/default/47818a3/2147483647/strip/false/crop/3186x2498+0+0/resize/1486x1165!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2Fc5%2Feb4be6754df78fc1ba4b1403b273%2Fimg-1770-r2.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "The Whale",
+          "author": "Adrien Morot, Judy Chin and Annemarie Bradley"
+        },
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Heike Merker and Linda Eisenhamerová"
+        },
+        {
+          "film_name": "The Batman",
+          "author": "Naomi Donne, Mike Marino and Mike Fontaine"
+        },
+        {
+          "film_name": "Black Panther: Wakanda Forever",
+          "author": "Camille Friend and Joel Harlow",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Black_Panther_Wakanda_Forever_poster.jpg/220px-Black_Panther_Wakanda_Forever_poster.jpg"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Mark Coulier, Jason Baird and Aldo Signoretti",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Music (Original Score)",
+      "for": "film",
+      "cover_photo": "https://www.lovevinylrecords.com/cdn/shop/files/volker-bertelmann-all-quiet-on-the-western-front_Woazz.jpg?v=1701274584&width=1445",
+      "winner_and_nominees": [
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Volker Bertelmann"
+        },
+        {
+          "film_name": "Babylon",
+          "author": "Justin Hurwitz",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Street_in_Babylon.jpg/250px-Street_in_Babylon.jpg"
+        },
+        {
+          "film_name": "The Banshees of Inisherin",
+          "author": "Carter Burwell",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/The_Banshees_of_Inisherin.jpg/220px-The_Banshees_of_Inisherin.jpg"
+        },
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Son Lux",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "The Fabelmans",
+          "author": "John Williams",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Fabelmansposter.jpeg/220px-Fabelmansposter.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Music (Original Song)",
+      "for": "music",
+      "cover_photo": "https://m.economictimes.com/thumb/msid-96898045,width-1200,height-900,resizemode-4,imgsize-30520/naatu-naatu-canva.jpg",
+      "winner_and_nominees": [
+        {
+          "song_name": "Naatu Naatu",
+          "author": "RRR, Music by M.M. Keeravaani; Lyric by Chandrabose",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Naatu_Naatu.jpg/220px-Naatu_Naatu.jpg"
+        },
+        {
+          "song_name": "Applause",
+          "author": "Tell It like a Woman, Music and Lyric by Diane Warren"
+        },
+        {
+          "song_name": "Hold My Hand",
+          "author": "Top Gun: Maverick, Music and Lyric by Lady Gaga and BloodPop"
+        },
+        {
+          "song_name": "Lift Me Up",
+          "author": "Black Panther: Wakanda Forever, Music by Tems, Rihanna, Ryan Coogler and Ludwig Goransson; Lyric by Tems and Ryan Coogler"
+        },
+        {
+          "song_name": "This Is A Life",
+          "author": "Everything Everywhere All at Once, Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne"
+        }
+      ]
+    },
+    {
+      "title": "Best Picture",
+      "for": "film",
+      "cover_photo": "https://variety.com/wp-content/uploads/2022/04/Everything.jpg?w=1000",
+      "winner_and_nominees": [
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Malte Grunert, Producer"
+        },
+        {
+          "film_name": "Avatar: The Way of Water",
+          "author": "James Cameron and Jon Landau, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Avatar_The_Way_of_Water_poster.jpg/220px-Avatar_The_Way_of_Water_poster.jpg"
+        },
+        {
+          "film_name": "The Banshees of Inisherin",
+          "author": "Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/The_Banshees_of_Inisherin.jpg/220px-The_Banshees_of_Inisherin.jpg"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        },
+        {
+          "film_name": "The Fabelmans",
+          "author": "Kristie Macosko Krieger, Steven Spielberg and Tony Kushner, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Fabelmansposter.jpeg/220px-Fabelmansposter.jpeg"
+        },
+        {
+          "film_name": "Tár",
+          "author": "Todd Field, Alexandra Milchan and Scott Lambert, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/19/T%C3%A1r_poster.jpg/220px-T%C3%A1r_poster.jpg"
+        },
+        {
+          "film_name": "Top Gun: Maverick",
+          "author": "Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg"
+        },
+        {
+          "film_name": "Triangle of Sadness",
+          "author": "Erik Hemmendorff and Philippe Bober, Producers",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/TriangleOfSadness2022Poster.jpg/220px-TriangleOfSadness2022Poster.jpg"
+        },
+        {
+          "film_name": "Women Talking",
+          "author": "Dede Gardner, Jeremy Kleiner and Frances McDormand, Producers"
+        }
+      ]
+    },
+    {
+      "title": "Production Design",
+      "for": "film",
+      "cover_photo": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/737/735/thumb_454DC479-10F2-4A58-B5D1-2B0893E8E5BE.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Production Design: Christian M. Goldbeck; Set Decoration: Ernestine Hipper"
+        },
+        {
+          "film_name": "Avatar: The Way of Water",
+          "author": "Production Design: Dylan Cole and Ben Procter; Set Decoration: Vanessa Cole",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Avatar_The_Way_of_Water_poster.jpg/220px-Avatar_The_Way_of_Water_poster.jpg"
+        },
+        {
+          "film_name": "Babylon",
+          "author": "Production Design: Florencia Martin; Set Decoration: Anthony Carlino",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Street_in_Babylon.jpg/250px-Street_in_Babylon.jpg"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "Production Design: Catherine Martin and Karen Murphy; Set Decoration: Bev Dunn",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        },
+        {
+          "film_name": "The Fabelmans",
+          "author": "Production Design: Rick Carter; Set Decoration: Karen O'Hara",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Fabelmansposter.jpeg/220px-Fabelmansposter.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Short Film (Animated)",
+      "for": "film",
+      "cover_photo": "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/boy-mole-fox-horse-8573cb7.jpg?quality=90&resize=980,654",
+      "winner_and_nominees": [
+        {
+          "film_name": "The Boy, the Mole, the Fox and the Horse",
+          "author": "Charlie Mackesy and Matthew Freud"
+        },
+        {
+          "film_name": "The Flying Sailor",
+          "author": "Amanda Forbis and Wendy Tilby",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/7/78/The_Flying_Sailor_Film_Poster.jpg/220px-The_Flying_Sailor_Film_Poster.jpg"
+        },
+        {
+          "film_name": "Ice Merchants",
+          "author": "João Gonzalez and Bruno Caetano",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Ice_Merchants_film_poster.jpg/220px-Ice_Merchants_film_poster.jpg"
+        },
+        {
+          "film_name": "My Year of Dicks",
+          "author": "Sara Gunnarsdóttir and Pamela Ribon",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/9/9d/My_Year_of_Dicks_Film_Poster.jpg/220px-My_Year_of_Dicks_Film_Poster.jpg"
+        },
+        {
+          "film_name": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+          "author": "Lachlan Pendragon",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/c/ce/An_Ostrich_Told_Me_the_World_Is_Fake_and_I_Think_I_Believe_It_poster.jpg/220px-An_Ostrich_Told_Me_the_World_Is_Fake_and_I_Think_I_Believe_It_poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Short Film (Live Action)",
+      "for": "film",
+      "cover_photo": "https://static1.squarespace.com/static/6031421b5eb0533730cf51df/60314254888ee60fe7728035/60314254888ee60fe772806a/1690463275563/Untitled+design.png?format=1500w",
+      "winner_and_nominees": [
+        {
+          "film_name": "An Irish Goodbye",
+          "author": "Tom Berkeley and Ross White",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6a/An_Irish_Goodbye_poster.jpg/220px-An_Irish_Goodbye_poster.jpg"
+        },
+        {
+          "film_name": "Ivalu",
+          "author": "Anders Walter and Rebecca Pruzan"
+        },
+        {
+          "film_name": "Le Pupille",
+          "author": "Alice Rohrwacher and Alfonso Cuarón",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Le_pupille_poster.jpg/220px-Le_pupille_poster.jpg"
+        },
+        {
+          "film_name": "Night Ride",
+          "author": "Eirik Tveiten and Gaute Lid Larssen"
+        },
+        {
+          "film_name": "The Red Suitcase",
+          "author": "Cyrus Neshvad"
+        }
+      ]
+    },
+    {
+      "title": "Sound",
+      "for": "film",
+      "cover_photo": "https://images.wsj.net/im-551522?width=1280&size=1.33333333",
+      "winner_and_nominees": [
+        {
+          "film_name": "Top Gun: Maverick",
+          "author": "Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg"
+        },
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Viktor Prášil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte"
+        },
+        {
+          "film_name": "Avatar: The Way of Water",
+          "author": "Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Avatar_The_Way_of_Water_poster.jpg/220px-Avatar_The_Way_of_Water_poster.jpg"
+        },
+        {
+          "film_name": "The Batman",
+          "author": "Stuart Wilson, William Files, Douglas Murray and Andy Nelson"
+        },
+        {
+          "film_name": "Elvis",
+          "author": "David Lee, Wayne Pashley, Andy Nelson and Michael Keller",
+          "photo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Visual Effects",
+      "for": "film",
+      "cover_photo": "https://www.digitaltrends.com/wp-content/uploads/2022/12/avatar-the-way-of-water-05-e1685989070479.jpg?p=1",
+      "winner_and_nominees": [
+        {
+          "film_name": "Avatar: The Way of Water",
+          "author": "Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Avatar_The_Way_of_Water_poster.jpg/220px-Avatar_The_Way_of_Water_poster.jpg"
+        },
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Frank Petzold, Viktor Müller, Markus Frank and Kamil Jafar"
+        },
+        {
+          "film_name": "The Batman",
+          "author": "Dan Lemmon, Russell Earl, Anders Langlands and Dominic Tuohy"
+        },
+        {
+          "film_name": "Black Panther: Wakanda Forever",
+          "author": "Geoffrey Baumann, Craig Hammack, R. Christopher White and Dan Sudick",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Black_Panther_Wakanda_Forever_poster.jpg/220px-Black_Panther_Wakanda_Forever_poster.jpg"
+        },
+        {
+          "film_name": "Top Gun: Maverick",
+          "author": "Ryan Tudhope, Seth Hill, Bryan Litson and Scott R. Fisher",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Writing (Adapted Screenplay)",
+      "for": "film",
+      "cover_photo": "https://assets-prd.ignimgs.com/2022/11/30/women-talking-blogroll-1669835420621.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Women Talking",
+          "author": "Screenplay by Sarah Polley"
+        },
+        {
+          "film_name": "All Quiet on the Western Front",
+          "author": "Screenplay - Edward Berger, Lesley Paterson & Ian Stokell"
+        },
+        {
+          "film_name": "Glass Onion: A Knives Out Mystery",
+          "author": "Written by Rian Johnson",
+          "photo": "//upload.wikimedia.org/wikipedia/en/6/62/Glass_Onion_poster.jpg"
+        },
+        {
+          "film_name": "Living",
+          "author": "Written by Kazuo Ishiguro"
+        },
+        {
+          "film_name": "Top Gun: Maverick",
+          "author": "Screenplay by Ehren Kruger and Eric Warren Singer and Christopher McQuarrie; Story by Peter Craig and Justin Marks",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Writing (Original Screenplay)",
+      "for": "film",
+      "cover_photo": "https://cdn.vox-cdn.com/thumbor/RAreCe4koVwAeXxJY5hx8hNnxtY=/0x0:2048x2943/1200x628/filters:focal(1021x745:1022x746)/cdn.vox-cdn.com/uploads/chorus_asset/file/23344521/GettyImages_1384443927.jpg",
+      "winner_and_nominees": [
+        {
+          "film_name": "Everything Everywhere All at Once",
+          "author": "Written by Daniel Kwan & Daniel Scheinert",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg"
+        },
+        {
+          "film_name": "The Banshees of Inisherin",
+          "author": "Written by Martin McDonagh",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/The_Banshees_of_Inisherin.jpg/220px-The_Banshees_of_Inisherin.jpg"
+        },
+        {
+          "film_name": "The Fabelmans",
+          "author": "Written by Steven Spielberg & Tony Kushner",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Fabelmansposter.jpeg/220px-Fabelmansposter.jpeg"
+        },
+        {
+          "film_name": "Tár",
+          "author": "Written by Todd Field",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/1/19/T%C3%A1r_poster.jpg/220px-T%C3%A1r_poster.jpg"
+        },
+        {
+          "film_name": "Triangle of Sadness",
+          "author": "Written by Ruben Östlund",
+          "photo": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/TriangleOfSadness2022Poster.jpg/220px-TriangleOfSadness2022Poster.jpg"
+        }
+      ]
+    }
+  ]
+}
