@@ -75,6 +75,9 @@ if (error.value) {
 if (Array.isArray(data.value)) data.value = data.value[0];
 if (!data.value) throw createError({ statusCode: 404, statusMessage: "404" });
 
+const preloader = useImagePreloader(
+	data?.value?.awards?.map((v) => v?.cover_photo),
+);
 const intersectionRatioList = useIntersectionRatioList();
 
 const auroraEffectVisible = computed(() => {
@@ -92,7 +95,7 @@ const headVidVisible = computed(() => {
 
 const awardCoverImage = computed(() => {
 	const index = intersectionRatioList?.findIndex((v) => v > 0.5);
-	return data?.value?.awards?.[index - 3]?.cover_photo;
+	return preloader?.value?.[index - 3]?.src;
 });
 
 const awardCoverVisible = computed(() => {
