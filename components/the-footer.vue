@@ -6,7 +6,7 @@
 
 		<p class="text-center text-xs leading-relaxed opacity-75">
 			<a
-				href="https://github.com/jissinl/oscars.site"
+				href="https://github.com/jissin/oscars.site"
 				target="_blank"
 				class="font-bold underline"
 				>MIT license.</a
