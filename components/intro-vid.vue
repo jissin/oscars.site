@@ -19,9 +19,9 @@
     <div
       style="
         background: linear-gradient(
-          rgba(0, 0, 0, 0.6),
-          rgba(0, 0, 0, 0.3) 50%,
-          rgba(0, 0, 0, 0.6)
+          rgba(0, 0, 0, 0.7),
+          rgba(0, 0, 0, 0.6) 50%,
+          rgba(0, 0, 0, 0.7)
         );
         transition: all 0.2s ease;
       "

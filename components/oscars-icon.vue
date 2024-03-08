@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <svg width="160px" viewBox="0 0 1565.96 474.45" version="1.1">
+    <svg width="180px" viewBox="0 0 1565.96 474.45" version="1.1">
       <g id="surface1">
         <g clip-path="url(#clip1)" clip-rule="nonzero">
           <path
